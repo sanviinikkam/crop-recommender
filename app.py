@@ -15,7 +15,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # 🔐 Set your OpenWeatherMap API key here
-API_KEY = "46eab8d8bb29b175b36ecde37ce6c3f7"  # Replace this!
+API_KEY = ""  # Replace this!
 
 # 🌦️ Weather Fetch Function
 def get_weather(city_name, api_key):
